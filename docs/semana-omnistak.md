@@ -56,3 +56,15 @@ Uma maneira simples e usar uma ferramenta criada pelo facebook chamada Create Re
 ```zsh
 $ npx create-react-app frontend
 ```
+
+## ENTENDENDO REACTNATIVE 
+
+<img src="/docs/img/05.png">
+
+<img src="/docs/img/06.png">
+
+<img src="/docs/img/07.png">
+
+<img src="/docs/img/08.png">
+
+
