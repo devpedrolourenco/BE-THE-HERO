@@ -51,4 +51,8 @@ const nomeDaVariavel = o quer quer importar
 
 ## CRIANDO O REACT 
 
-Uma maneira simples e usar uma ferramenta criada pelo facebook chamada Create React app que ja cria toda a estrutura de um projeto react
+Uma maneira simples e usar uma ferramenta criada pelo facebook chamada Create React app que ja cria toda a estrutura de um projeto react.
+
+```zsh
+$ npx create-react-app frontend
+```
