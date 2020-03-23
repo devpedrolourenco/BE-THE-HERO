@@ -42,3 +42,13 @@ Se olharmos no package.json foi criado junto com o express a seguinte notação.
 ```js
 const nomeDaVariavel = o quer quer importar
 ```
+
+## ENTENDENDO O REACT
+
+<img src="/docs/img/03.png">
+
+<img src="/docs/img/04.png">
+
+## CRIANDO O REACT 
+
+Uma maneira simples e usar uma ferramenta criada pelo facebook chamada Create React app que ja cria toda a estrutura de um projeto react
