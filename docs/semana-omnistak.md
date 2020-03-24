@@ -68,3 +68,83 @@ $ npx create-react-app frontend
 <img src="/docs/img/08.png">
 
 
+# CRIANDO A BASE DA APLICAÇÃO 
+ 
+ 
+MÉTODOS HTTP
+ 
+- GET: Buscar uma informação no back-end
+- POST: Criar uma informação no back-end
+- PUT: Alterar uma informação no back-end
+- Delete: Deletar uma informação no back-end
+ 
+ 
+ 
+ - TIPOS DE PAR METROS:
+  
+ - Query Params: Parâmetros nomeados na rota enviados na rota após o símbolo de "?"(filtros, paginação.)
+ 
+ - Route Params: Parâmetros utilizados para identificar recursos.
+   
+ - Request Body: Corpo da requisição, utilizado para criar ou alterar recursos.
+  
+ 
+ 
+
+PARA NÃO FICAR REINICIANDO INSTALAMOS O NODEMOS
+
+```bash
+npm install nodemon -D
+
+```
+Porque -D? nesse caso ele cria apenas como uma dependencia no package.json onde iremos ver apenas como dev, ou seja usado apenas em ambiente de desenvolvimento, ja que em producao executaremos o node apenas 1x e nao precisaremos ficar monitorando.
+
+
+E como fazemos para executar o nodemon automatico, se formos em package.json iremos reparar que tera uma aba scripts, para criar um scripts personalizados ou seja irei criar um script personalizado chamado start
+
+## BANCO DE DADOS
+
+/**
+ * SQL: MySQL, SQLite, PostgreSQL, Oracle, Microsoft, SQL server
+ * 
+ * NoSQL: mongoDB, CouchDB, etc.
+ */
+
+Podemos usar duas abordagens usando o:
+
+Driver do banco: onde iremos escrever no codigo ex. ```(SELECT * FROM users)```
+
+ou
+
+Query Builder:onde iremos escrever no codigo ja em JS ex.  ``` table(‘users’).select(‘*’).where(); ```
+
+para usar a **Query Builder** usaremos o http://knexjs.org/
+
+
+no caso o processo de instalação e explicado no próprio site do projeto. 
+
+Para iniciar a conexão com banco de dados vamos iniciar com o comando.
+
+```
+$ npx knex init
+```
+
+ENTIDADES DA APLICAÇÃO PARA O BD:
+
+Entidade chamada ONG
+Entidade chamado: caso (incident)
+
+FUNCIONALIDADES
+
+login ong
+logout ong
+cadastro ong
+cadastrar novos casos
+deletar novos casos
+listar casos específicos de uma ong
+
+listar todos os casos (app)
+entrar em contato com a ong.
+
+
+Para criar e armazenar um histórico das tabelas, podemos usar uma api chamada migrations também do KNEXJS. 
