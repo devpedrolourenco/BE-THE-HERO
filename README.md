@@ -7,7 +7,9 @@
 
  Aplicação proposta pela **Rocketseat** na **semana omnistack 11**
  
-## FRONT END DA APLICAÇÃO
+## FRONTEND DA APLICAÇÃO
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/lo9Wb9GHrXM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Confira o video do FRONTEND
+
+[![Frontend](https://i9.ytimg.com/vi/lo9Wb9GHrXM/mqdefault.jpg?time=1585164601699&sqp=CLji7vMF&rs=AOn4CLC2PlgHB6JJbb4S1o_huobpwazrmw)](https://www.youtube.com/watch?v=lo9Wb9GHrXM)
 
