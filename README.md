@@ -9,7 +9,7 @@
  
 ## FRONTEND DA APLICAÇÃO
 
-Confira o video do FRONTEND
+Clique na imagem abaixo para ir para o video do frontend do app
 
 [![Frontend](https://i9.ytimg.com/vi/lo9Wb9GHrXM/mqdefault.jpg?time=1585164601699&sqp=CLji7vMF&rs=AOn4CLC2PlgHB6JJbb4S1o_huobpwazrmw)](https://www.youtube.com/watch?v=lo9Wb9GHrXM)
 
