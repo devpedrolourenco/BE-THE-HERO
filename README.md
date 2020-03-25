@@ -9,5 +9,5 @@
  
 ## FRONT END DA APLICAÇÃO
 
-<object width="425" height="344" data="https://www.youtube.com/watch?v=lo9Wb9GHrXM"></object>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/lo9Wb9GHrXM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
