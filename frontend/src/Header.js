@@ -1,9 +1,12 @@
-import React from 'react';
+  import React from 'react';
+import './global.css';
 
-export default function Header(props){
-    return (
-        <header>
-            <h1>{props.children}</h1>
-        </header>
-    );
-};
+function Header() {
+  return (
+    <header>
+      <h1>Be The Hero</h1>
+    </header>
+  );
+}
+
+export default Header;
