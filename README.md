@@ -10,3 +10,4 @@
 ## FRONT END DA APLICAÇÃO
 
 [![FRONTEND]](https://www.youtube.com/watch?v=lo9Wb9GHrXM)
+[![FRONTEND](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=lo9Wb9GHrXM)
