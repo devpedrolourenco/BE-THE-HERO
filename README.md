@@ -7,3 +7,6 @@
 
  Aplicação proposta pela **Rocketseat** na **semana omnistack 11**
  
+## FRONT END DA APLICAÇÃO
+
+[![FRONTEND]](https://www.youtube.com/watch?v=lo9Wb9GHrXM)
