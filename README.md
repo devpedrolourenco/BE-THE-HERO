@@ -28,3 +28,16 @@ E o usuário não precisa de um cadastro para acessar o aplicativo, pois ele con
 
 <img src="/docs/img-be-the/print-front-01.png">
 
+**Tela de Cadastro ONG** 
+
+<img src="/docs/img-be-the/print-front-02.png">
+
+**Tela de Casos da ONG**
+
+<img src="/docs/img-be-the/print-front-03.png">
+
+**Tela de Catastro de Casos da ONG**
+
+<img src="/docs/img-be-the/print-front-04.png">
+
+
