@@ -40,6 +40,20 @@ E o usuário não precisa de um cadastro para acessar o aplicativo, pois ele con
 
 <img src="/docs/img-be-the/print-front-04.png">
 
-## INTERFACE MOBILE
+### INTERFACE MOBILE
 
 <img src="/docs/img-be-the/Mobile.png">
+
+##  Tecnologias usadas
+Projeto Desenvolvidos nas Seguintes Tecologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://docs.rocketseat.dev/ambiente-react-native/introducao)
+- [Expo](https://expo.io/)
+- [SQL LITE](https://www.sqlite.org/index.html)
+
+
+## Licença
+
+[MIT](files/licence/Licence.md) &copy; [Rocketseat](https://rocketseat.com.br/)
