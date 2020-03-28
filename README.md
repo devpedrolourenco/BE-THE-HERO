@@ -7,10 +7,10 @@
 
 **SEMANA OMNISTACK 11.0  #rocketseat**
 
- Projeto de uma aplicação completa chamada **Be The Hero**, essa aplicação tem como objetivo conectar ONG`s com pessoas que tem intuito de colaborar para uma determinada causa. 
+ Projeto de uma aplicação completa chamada **Be The Hero**, essa aplicação tem como objetivo conectar ONGs com pessoas que tem intuito de colaborar para uma determinada causa. 
 
 
-As ONG`s se cadastra na plataforma onde é gerado um ID de acesso para ela, e com esse ID ela tem acesso ao painel web de cadastros de casos nas quais ela tem interesse de receber doações. Após o cadastro dos casos eles são enviados para o banco de dados onde fica disponível em tempo real para o app mobile das pessoas que tem interesse de doar.  
+As ONGs se cadastra na plataforma onde é gerado um ID de acesso para ela, e com esse ID ela tem acesso ao painel web de cadastros de casos nas quais ela tem interesse de receber doações. Após o cadastro dos casos eles são enviados para o banco de dados onde fica disponível em tempo real para o app mobile das pessoas que tem interesse de doar.  
 
 E o usuário não precisa de um cadastro para acessar o aplicativo, pois ele consegue entrar em contato com a ONG que lhe interessar ajudar em alguma causa, através do whatsapp ou e-mail. 
  
